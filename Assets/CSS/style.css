@@ -1,0 +1,35 @@
+*{
+  font-family: 'Arimo', sans-serif;
+}
+body{
+  
+  background-color: #FACC15;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 20px;
+  border: 1px transparent  ;
+  border-radius: 5px;
+  background-color: #18181B;
+  color: #E4E4E7;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 0px;
+  color: #E4E4E7;
+}
+
+
+
+.marca {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #E4E4E7;
+}
+
